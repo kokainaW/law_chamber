@@ -72,6 +72,7 @@ nav ul li a {
     background-color: #e68900;
 }
 
+/* Background Image for About Us Section */
 #about {
     background: url('about-background.jpg') no-repeat center center/cover;
     color: white;
@@ -79,6 +80,7 @@ nav ul li a {
     text-align: center;
 }
 
+/* Background Image for Services Section */
 #services {
     background: url('services-background.jpg') no-repeat center center/cover;
     color: white;
@@ -92,6 +94,7 @@ nav ul li a {
     width: 300px;
 }
 
+/* Background Image for Our Team Section */
 #team {
     background: url('team-background.jpg') no-repeat center center/cover;
     color: white;
@@ -106,6 +109,7 @@ nav ul li a {
     text-align: center;
 }
 
+/* Background Image for Contact Us Section */
 #contact {
     background: url('contact-background.jpg') no-repeat center center/cover;
     color: white;
